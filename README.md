@@ -1,2 +1,1 @@
-# r-training
-Contains R training
+# IntroRTraining
